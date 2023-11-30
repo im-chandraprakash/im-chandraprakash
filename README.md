@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandraprakash</h1>
 <h3 align="center">A Enthusiastic Full Stack Developer</h3>
 
+<img align="right" width="500" src="https://media0.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e476d33i8sngci2xr464za5fis7f4l50cdvpxi5bxdn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **Web Development & DSA**
 
 - 🌱 I’m currently learning **Web Development**
